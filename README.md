@@ -28,7 +28,10 @@ Logic:
           start element and the pivot.
                     
    
-2. Depending upon whether the entered element to search is less than or greater than pivot, navigate
+2. Depending upon whether the entered element to search is less than or greater than pivot, navigation will be 
+determined.
+
+
   2.a If the entered element is less than pivot but greater than the first element in the array,
       navigate left 'betweeen the first element and the pivot'
       
